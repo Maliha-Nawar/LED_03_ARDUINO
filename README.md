@@ -1,0 +1,2 @@
+# LED_03_ARDUINO
+A,B,C,D are 4 LEDs turning on gradually (A,B,C,D respectively) within 8s. After that, they turn off such a way that if last digit of my ID is even number then even number LEDs will turn off first (first B, then D) then odd number LEDs will turn off (A, then C). If the last digit of my ID is odd, then LEDs' turning off process will be vice versa. Turning off process will also take 8s.  
